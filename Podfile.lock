@@ -1,0 +1,16 @@
+PODS:
+  - CommonUI (0.1.0)
+
+DEPENDENCIES:
+  - CommonUI (from `DevPods/CommonUI`)
+
+EXTERNAL SOURCES:
+  CommonUI:
+    :path: DevPods/CommonUI
+
+SPEC CHECKSUMS:
+  CommonUI: 29458da8f149648a01b980c21d23079bc3119c1e
+
+PODFILE CHECKSUM: 529682dbffb0ea1720dbcb771598ad29d5957bbd
+
+COCOAPODS: 1.9.3

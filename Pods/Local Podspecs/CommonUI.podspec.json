@@ -1,0 +1,23 @@
+{
+  "name": "CommonUI",
+  "version": "0.1.0",
+  "summary": "A short description of CommonUI.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/saurabhSri4862/CommonUI",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "saurabhSri4862": "ssrivastava@kiwiup.com"
+  },
+  "source": {
+    "git": "https://github.com/saurabhSri4862/CommonUI.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CommonUI/Module/**/*.{swift}",
+  "resources": "CommonUI/Module/**/*.{xcassets,json,storyboard,xib,xcdatamodeld}"
+}
